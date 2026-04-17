@@ -1,5 +1,5 @@
 # 🌦️ Pipeline ETL Weather: OpenWeatherMap & Apache Airflow
-Este projeto consiste em um pipeline de dados ponta a ponta (ETL) que extrai informações meteorológicas em tempo real da API OpenWeatherMap, realiza transformações de limpeza e normalização, e carrega os dados em um data warehouse PostgreSQL orquestrado pelo Apache Airflow em ambiente conteinerizado.
+Este projeto consiste em um pipeline de dados ponta a ponta (ETL) que extrai informações meteorológicas em tempo real de Brasília por meio da API OpenWeatherMap, realiza transformações de limpeza e normalização, e carrega os dados em um data warehouse PostgreSQL orquestrado pelo Apache Airflow em ambiente conteinerizado.
 
 ## 🏗️ Arquitetura do Projeto
 O pipeline segue a estrutura clássica de Engenharia de Dados:
