@@ -1,0 +1,9 @@
+dags/__pycache__
+/config
+src/__pycache__
+.venv
+.env
+.dockerignore
+/logs
+/data
+/plugins
